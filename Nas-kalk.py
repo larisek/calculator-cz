@@ -1,8 +1,8 @@
 import time
 import colorama
-from colorama import Style
 print("Kalkulačka se vzorcy")
 print("BY: larisek")
+print("Github: https://github.com/larisek")
 input("Start")
 print("1.Newtonovy gravitační zákony")
 print("2.Práce")
